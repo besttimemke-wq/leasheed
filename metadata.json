@@ -1,0 +1,6 @@
+{
+  "name": "Leashed LMS Dashboard",
+  "description": "Leashed.io Social Impact LMS & Enterprise Training Platform with user management, real-time course progress tracking, branching scenario builder, and Google Stitch HTML-to-React onboarding flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
